@@ -1,2 +1,1 @@
-# cmdsetup-test3-lm1
-CMDSetup LM-1 Stage 4 machine-mode git test repo
+Updated from GitHub API to verify machine-mode pull picks up a remote-only change.
